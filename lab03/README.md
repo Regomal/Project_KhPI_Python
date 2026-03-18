@@ -24,7 +24,7 @@ lab03/
 ├── README.md           → this file
 ├── requirements.txt    → external dependencies if used (may be empty)
 ├── src/
-│   └── main.py         → source code containing your implementation of the tasks
+│   └── lab03.py         → source code containing your implementation of the tasks
 └── report/
     └── answers.md      → short explanations requested in the tasks
 ```
@@ -65,7 +65,7 @@ All code should be executed from the root directory of the project.
 
 Command:
 
-    python src/main.py
+    python src/lab03.py
 
 *(Use `python3` instead of `python` depending on your environment).*
 
